@@ -101,7 +101,7 @@
     "aws-embedded-metrics": "^2.0.6",
     "aws-sdk": "^2.1692.0",
     "aws-xray-sdk": "^3.3.3",
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "bunyan": "^1.8.15",
     "constructs": "^10.4.3",
     "dotenv": "^16.0.1",
